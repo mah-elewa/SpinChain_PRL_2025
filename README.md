@@ -1,7 +1,7 @@
 # Parametric resonance in a spin-1/2 chain: dynamical effects of nontrivial topology
 
 This repository contains the source code, data, and plotting scripts associated with the paper:
-**"Parametric resonance in a spin-1/2 chain: dynamical effects of nontrivial topology"** by Mahmoud T. Elewa and M. I. Dykman, submitted to *Physical Review Letters*.
+**"Parametric resonance in a spin-1/2 chain: dynamical effects of nontrivial topology"** by Mahmoud T. Elewa and M. I. Dykman. 
 
 ## Repository Structure
 
