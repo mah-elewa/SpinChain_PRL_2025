@@ -71,4 +71,4 @@ pip install numpy matplotlib scipy jupyter
 ## Citation
 
 If you use this code or data, please cite our paper:
-https://arxiv.org/abs/2511.10891
+[https://arxiv.org/abs/2511.10891](https://arxiv.org/abs/2511.10891)
