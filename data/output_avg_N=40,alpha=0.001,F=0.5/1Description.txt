@@ -1,0 +1,13 @@
+This data is for adiabatically switching the drive. 
+
+From 0 to F=0.5 as F(t) = \alpha t, where \alpha =0.001
+
+Then, after drive fully switched on:
+Time evolve from tf = F/(\alpha) to tf+30
+During this interval (30) compute results and the outcome here is the average. 
+
+first row is density
+second row is sz_n*sz_{n+1} correlation
+third row is s+_n*s-_{n+1} correlation
+
+each file is marked with the corresponding mu for J=1
