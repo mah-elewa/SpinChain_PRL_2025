@@ -1,0 +1,19 @@
+This is sharp switching of the drive: constant H evolution
+
+F = 0.5, J = 1, and value of mu indicated by file name as "mui" meaning: mu=i/10
+
+Value of N is in the folder name. 
+
+Time evolution is done from t=0 to tf=50 
+
+Results evaluated starting at t=20 to t=50 with 0.1 time step.
+
+The outcome here is the average of these results.
+
+Row1: density
+Row2: sz two point correlations
+Row3: sx two point correlations
+Row4: sy two point correlations
+Row5: sz three point correlations 
+
+sx and sy where used to compute (s+)(s-)
